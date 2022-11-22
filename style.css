@@ -19,7 +19,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(/images/bg-pattern-top.svg),url(/images/bg-pattern-bottom.svg);
+    background-image: url(images/bg-pattern-top.svg),url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat no-repeat;
     background-position: right 44vw bottom 25vh,left 44vw top 44vh;
     background-color: var(--Dark-cyan);
@@ -33,7 +33,7 @@ body{
     overflow: hidden;
 }
 .image-container{
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(images/bg-pattern-card.svg);
     display: flex;
     justify-content: center;
     margin-bottom: 5rem;
